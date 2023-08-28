@@ -21,7 +21,7 @@
     width: 80vw;
     text-align: center;
     color: white;
-    text-shadow: 6px 5px grey;
+    text-shadow: 5px 6px grey;
 }
 h1:hover {
     transform: scale(1.1);
@@ -59,11 +59,10 @@ h1:hover {
     cursor: pointer;
     background-color: #e6f5ff;
 }
-.btn:hover {
-    color: red;
-}
+
 .btn:active{
     color: blue;
+    background-color: transparent;
 }
 img {
     width: 50vw;
