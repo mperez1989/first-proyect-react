@@ -21,10 +21,11 @@
     width: 80vw;
     text-align: center;
     color: white;
+    text-shadow: 6px 5px grey;
 }
 h1:hover {
     transform: scale(1.1);
-    box-shadow: 6px 10px 10px 0px grey;
+    
 }
 .phrase-conteiner {
     position: relative;
@@ -56,6 +57,7 @@ h1:hover {
     border-radius: 10px;
     color: grey;
     cursor: pointer;
+    background-color: #e6f5ff;
 }
 .btn:hover {
     color: red;
